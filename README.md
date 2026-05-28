@@ -47,5 +47,5 @@ Developed for the **EZ Works GenAI Internship Assignment**.
 
 | Name                     | GitHub                             | LinkedIn                                      |
 |--------------------------|------------------------------------|-----------------------------------------------|
-| **Tanishk Vardhan Srivastav** | [github.com/Tanishk0001](https://github.com/Tanishk0001) | [linkedin.com/in/tanishkvs](https://linkedin.com/in/tanishkvs) |
+|Sweta Sharma | [(https://github.com/shwetash77/) | [https://www.linkedin.com/in/sweta-sharma707/) |
 
